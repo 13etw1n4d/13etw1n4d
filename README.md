@@ -10,4 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Cat Lover
 -->
+
 ![](https://komarev.com/ghpvc/?username=your-github-13etw1n4d)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13etw1n4d&show_icons=true&theme=transparent)
