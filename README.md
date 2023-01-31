@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my own project
+- 🔭 I’m currently working on my own Golang project
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Golang Projects
 - 🤔 I’m looking for help with CI/CD
