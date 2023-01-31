@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Golang Projects
 - 🤔 I’m looking for help with CI/CD
 - 💬 Ask me about my Programming Journey
-- 📫 How to reach me: https://13etw1n4d.net/
+- 📫 [Visit my works](https://13etw1n4d.net/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Cat Lover
 -->
